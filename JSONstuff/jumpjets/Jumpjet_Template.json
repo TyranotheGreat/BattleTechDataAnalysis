@@ -1,0 +1,25 @@
+{
+   "JumpCapacity" : 1,
+   "MinTonnage" : 1,
+   "MaxTonnage" : 100,
+   "Description" : {
+      "Id" : "Jumpjet_Template",
+      "Name" : "Jumpjet TEMPLATE",
+      "Details" : null,
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "BonusValueA" : "",
+	"BonusValueB" : "",
+    "ComponentType" : "JumpJet",
+   "ComponentSubType" : "Functionality",
+   "PrefabIdentifier" : "JumpJet",
+   "BattleValue" : 0,
+   "InventorySize" : 1,
+   "Tonnage" : 1,
+   "AllowedLocations" : "Torso, Legs",
+   "DisallowedLocations" : "Head, Arms",
+   "CriticalComponent" : false
+}

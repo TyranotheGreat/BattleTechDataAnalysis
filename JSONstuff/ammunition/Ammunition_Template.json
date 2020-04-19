@@ -1,0 +1,19 @@
+{
+   "Description" : {
+      "Id" : "AmmunitionTemplate",
+      "Name" : "",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Type" : "Normal",
+   "Category" : "NotSet",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 0,
+   "BaseDamage" : 0,
+   "ArmorDamageModifier" : 0,
+   "ISDamageModifier" : 0,
+   "CriticalDamageModifier" : 0
+}

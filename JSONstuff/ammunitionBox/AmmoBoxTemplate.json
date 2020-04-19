@@ -1,0 +1,24 @@
+{
+   "AmmoID" : null,
+   "Capacity" : 0,
+   "Description" : {
+      "Id" : "AmmoBoxTemplate",
+      "Name" : "",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "BonusValueA" : "",
+	"BonusValueB" : "",
+    "ComponentType" : "AmmunitionBox",
+   "ComponentSubType" : "Ammunition",
+   "PrefabIdentifier" : "",
+   "BattleValue" : 0,
+   "InventorySize" : 1,
+   "Tonnage" : 1,
+   "AllowedLocations" : "All",
+   "DisallowedLocations" : "None",
+   "CriticalComponent" : false
+}

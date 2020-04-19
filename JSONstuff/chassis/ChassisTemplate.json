@@ -1,0 +1,242 @@
+{
+   "Description" : {
+      "Id" : "",
+      "Name" : "",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "ChassisTags" : {
+        "items" : [
+        ],
+        "tagSetSourceFile" : ""
+    },
+    "StockRole": "",
+	"YangsThoughts": "",
+    "VariantName" : "",
+   "PrefabIdentifier" : "",
+   "PrefabBase" : "",
+   "Tonnage" : 0,
+   "InitialTonnage" : 0,
+   "weightClass" : "LIGHT",
+   "BattleValue" : 0,
+   "Heatsinks" : 0,
+   "TopSpeed" : 0,
+   "TurnRadius" : 0,
+   "Stability" : 100,
+   "StabilityDefenses" : [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+   ],
+   "SpotterDistanceMultiplier" : 1,
+   "VisibilityMultiplier" : 1,
+   "SensorRangeMultiplier" : 1,
+   "Signature" : 0,
+   "Radius" : 8,
+   "PunchesWithLeftArm" : false,
+   "EngageRangeModifier" : 0,
+   "MeleeDamage" : 1,
+   "MeleeInstability" : 1,
+   "MeleeToHitModifier" : 0,
+   "DFADamage" : 1,
+   "DFAToHitModifier" : 0,
+   "DFASelfDamage" : 1,
+   "DFAInstability" : 1,
+   "Head" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "LeftArm" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "LeftTorso" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "CenterTorso" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "RightTorso" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "RightArm" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "LeftLeg" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "RightLeg" : {
+      "Location" : "None",
+      "Hardpoints" : null,
+      "Tonnage" : 0,
+      "InventorySlots" : 0,
+      "MaxArmor" : 0,
+      "MaxRearArmor" : 0,
+      "InternalStructure" : 0
+   },
+   "MovementCapDefID" : null,
+   "PathingCapDefID" : null,
+   "HardpointDataDefID" : null,
+   "LOSSourcePositions" : null,
+   "LOSTargetPositions" : null,
+   "Locations" : [
+      {
+         "Location" : "Head",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "LeftArm",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "LeftTorso",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "CenterTorso",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "RightTorso",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "RightArm",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "LeftLeg",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      },
+      {
+         "Location" : "RightLeg",
+         "Hardpoints" : [
+            {
+               "WeaponMount" : "NotSet",
+               "Omni" : false
+            }
+         ],
+         "Tonnage" : 0,
+         "InventorySlots" : 0,
+         "MaxArmor" : 0,
+         "MaxRearArmor" : 0,
+         "InternalStructure" : 0
+      }
+   ]
+}
