@@ -14,12 +14,6 @@ select
 	turn , 
 	row_number() over (partition by battle_id order by round desc,turn desc) last_attack
 from battlehistory
-where 1=1
---and ((attacking_mechdef_id = 'mechdef_awesome_AWS-8Q'
---and defending_mechdef_id = 'mechdef_centurion_CN9-AS')
-or 
-(attacking_mechdef_id = 'mechdef_centurion_CN9-AS'
-and defending_mechdef_id = 'mechdef_awesome_AWS-8Q')
 ) a
 where a.last_attack = 1
 ) b 
